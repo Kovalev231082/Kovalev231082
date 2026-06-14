@@ -18,7 +18,7 @@
 #### Мои проекты:
 | API My Shows Rating |  API Битва покемонов | UI Битва покемонов |
 |---------------------|----------------------|--------------------|
-|[my-shows-api-tests](https://github.com/Kovalev231082/my-shows-api-tests)|[pokemonbattle-api-tests](https://github.com/Kovalev231082/pokemonbattle-api-tests)   | [pokemonbattle-e2e-tests](https://github.com/Kovalev231082/pokemonbattle-e2e-tests)   
+|[my-shows-api-tests](https://github.com/Kovalev231082/myshows_api_tests)|[pokemonbattle-api-tests](https://github.com/Kovalev231082/pokemonbattle_api_tests)   | [pokemonbattle-e2e-tests](https://github.com/Kovalev231082/pokemonbattle_e2e_tests)   
 | Pytest, Requests, Docker|Pytest, Requests, Gitlab CI| Selenium, Gitlab CI|
 
 

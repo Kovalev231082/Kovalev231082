@@ -4,7 +4,7 @@
 * 🔥 5+ лет в тестировании
 * 🐍 Пишу автотесты на Python
 * ⚙️ Развиваюсь в автоматизации
-* 📞 Мои контакты: **[телеграм](https://t.me/AKaaaa34)**, **[почта](kovalev231082@mail.ru)**
+* 📞 Мои контакты: **[телеграм](https://t.me/AKaaaa34)**
 
   
 
@@ -24,4 +24,4 @@
 
 
 ### 📚 Обучение
-|<img height="550" src="media/diploma_updated.jpg"/>|<img height="550" src="media/Letter.png"/>|
+|<img height="550" src="media/Diploma.png"/>|
